@@ -9,28 +9,23 @@ Node.js (version v18.18.0)
 npm (version 10.1.0)
 
 **Installation**
-Clone the repository:
-git clone https://github.com/areeb269/exitech-task.git
+
+**Clone Repository**
+i - Clone the repository: git clone https://github.com/areeb269/exitech-task.git
 
 **Backend Setup**
-Change into the backend directory: 
-cd server
-Install backend dependencies: 
-npm install
+i - Change into the backend directory: cd server
+ii - Install backend dependencies: npm install
 
 **Frontend Setup**
-Change into the frontend directory: 
-cd client
-Install frontend dependencies: 
-npm install
+i - Change into the frontend directory: cd client
+ii - Install frontend dependencies: npm install
 
 **Running the Application**
 **Backend**
-In the backend directory, start the Node.js server:
-npm start
-The server will run on http://localhost:8080.
+i - In the backend directory, start the Node.js server: npm start
+ii - The server will run on http://localhost:8080
 
 **Frontend**
-In the frontend directory, start the React.js development server:
-npm start
-The application will be accessible at http://localhost:3000.
+i - In the frontend directory, start the React.js development server: npm start
+ii - The application will be accessible at http://localhost:3000
