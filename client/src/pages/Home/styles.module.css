@@ -1,0 +1,35 @@
+.homeContainer {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  width: 100%;
+}
+
+.profileIcon {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.heading {
+  font-size: 35px;
+  font-weight: 600;
+  color: #fff;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.img {
+  width: 20px;
+  height: 20px;
+}

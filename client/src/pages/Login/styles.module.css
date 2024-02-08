@@ -1,0 +1,28 @@
+.loginContainer {
+  background-image: url("../../../public/images/background-blur.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  width: 100%;
+}
+
+.heading {
+  font-size: 40px;
+  font-weight: 600;
+  color: #2c444e;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.img {
+  width: 30%;
+  margin: 20;
+}
