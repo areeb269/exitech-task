@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/exitech-task/static/css/main.dca9905d.css",
+    "main.js": "/exitech-task/static/js/main.ec3f1f53.js",
+    "static/media/background-blur.png": "/exitech-task/static/media/background-blur.b4975ea2f2862a40c84d.png",
+    "index.html": "/exitech-task/index.html",
+    "main.dca9905d.css.map": "/exitech-task/static/css/main.dca9905d.css.map",
+    "main.ec3f1f53.js.map": "/exitech-task/static/js/main.ec3f1f53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dca9905d.css",
+    "static/js/main.ec3f1f53.js"
+  ]
+}
